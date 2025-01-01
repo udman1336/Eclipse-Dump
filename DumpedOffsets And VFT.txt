@@ -1,0 +1,10 @@
+CalculateShotSig: 48 8B C4 48 89 58 10 48 89 70 18 55 57 41 54 41 56 41 57 48 8D 68 88
+LineTraceSingle: 0x2221ef0
+RaycastMulti: 0x20597a0
+DrawTransition: 0x2e0 / 0x8
+GetViewpoint: 0x240 / 0x8
+GetPlayerViewpoint: 0x6b0 / 0x8
+ProcessEvent: 0x40
+AppendString: 0x13298e0
+Fire: 0xf262d0
+FNameConstructor: 0x1327fe0
