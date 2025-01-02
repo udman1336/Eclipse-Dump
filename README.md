@@ -16,14 +16,7 @@ This repository contains an SDK dump and resources for Eclipse Version 3.6. Feel
 ## Features 📋
 - Complete SDK dump for Eclipse Version 3.6
 - Resources to build your own cheats
-- [Source code](#) to be added soon!
-
----
-
-## Preview 📷
-
-Here's a sneak peek of the repository:  
-![Screenshot](./Screenshot%202025-01-01%20213810.png)
+- [Internal Source code](https://github.com/udman1336/Eclipse-Internal/)
 
 ---
 
@@ -51,13 +44,5 @@ Use this content at your own risk and discretion.
 
 Contributions are always welcome!  
 Feel free to submit pull requests or issues to improve the repository.
-
----
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to star ⭐ the repository if you find it useful! Contributions and feedback are always appreciated. 🙌
